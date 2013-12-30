@@ -9,11 +9,13 @@ $ ->
     country_code = $(this).val()
     url = "/orders/subregion_options?parent_region=#{country_code}"
     select_wrapper.load(url)
+    # If you also have cities, add this:
+    $('#company_city_wrapper').load("/orders/city_options")
 
-  $('#company_subregion_code_wrapper').change (event) ->
-    city_wrapper = $('#company_city_wrapper')
+  $('#order_subregion_code_wrapper').change (event) ->
+    city_wrapper = $('#order_city_wrapper')
     $('select', city_wrapper).attr('disabled', true)
-    country_code = $('select#company_country_code').val()
-    subregion_code = $('select#company_subregion_code').val()
+    country_code = $('select#order_country_code').val()
+    subregion_code = $('select#order_subregion_code').val()
     url = "/city_options?country_code=#{country_code}&subregion_code=#{subregion_code}"
     city_wrapper.load(url)

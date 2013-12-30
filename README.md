@@ -135,4 +135,4 @@ config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.{rb,y
 ```
 
 ### Add city field to views
-See the source code for the example
+See the source code of the views for the example
