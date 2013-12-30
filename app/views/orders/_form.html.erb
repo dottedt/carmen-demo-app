@@ -1,22 +1,28 @@
-<%= form_for(@order) do |f| %>
-  <% if @order.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(@order.errors.count, "error") %> prohibited this order from being saved:</h2>
+<h1>With the standard rails form helper</h1>
 
-      <ul>
-      <% @order.errors.full_messages.each do |msg| %>
-        <li><%= msg %></li>
-      <% end %>
-      </ul>
-    </div>
-  <% end %>
-
+<%= form_for @order do |f| %>
   <div class="field">
     <%= f.label :country_code %><br>
     <%= f.country_select :country_code, priority: %w(US CA), prompt: 'Please select a country' %>
   </div>
   <div class="field">
     <%= f.label :subregion_code %><br>
-    <%= render partial: 'subregion_select', locals: {parent_region: f.object.country_code} %>
+    <%= render partial: 'subregion_select', parent_region: f.object.country_code %>
   </div>
+<% end %>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+<h1>With simple_form </h1>
+<%= simple_form_for @order do |f| %>
+  <%= f.input :country_code do %>
+    <%= f.country_select :country_code, prompt: 'Please select a country' %>
+  <% end %>
+  <%= f.input :subregion_code do %>
+    <%= render 'subregion_select', parent_region: f.object.country_code %>
+  <% end %>
 <% end %>
