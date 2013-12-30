@@ -119,8 +119,8 @@ Say we want to extend carmen-rails to include city data. In my case, most addres
 ### Manually find and add city data
 
 The structural data goes in the `lib/carmen` directory.
-The locale files containing various languages' translations go into the `config/locales/carmen` directory
-We adjust the 
+The locale files containing various languages' translations go into the `config/locales/carmen` directory.
+Then we tell Carmen about the new structural data and translations that we've added:
 
 ```ruby
 # In config/initializers/carmen.rb
