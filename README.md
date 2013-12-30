@@ -77,13 +77,15 @@ $ ->
     select_wrapper.load(url)
 ```
 
-Now we just need to add a route to `config/routes.rb`:
+Now we just need to add a route to `config/routes.rb` as follows:
 
 ```ruby
 # Must be ABOVE resources: orders
 get '/orders/subregion_options' => 'orders#subregion_options'
+```
+Or alternatively:
 
-# Alternatively, you can include the route in the resources: orders as follows:
+```ruby
 resources :orders do
   collection do
     get :subregion_options
