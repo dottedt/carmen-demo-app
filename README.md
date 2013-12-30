@@ -21,8 +21,8 @@ gem 'carmen', github: 'seangaffney/carmen'
 gem 'carmen-rails', '~> 1.0.0', github: 'jim/carmen-rails'
 ```
 
-Use the new form helpers provided by carmen-rails to add country or subregion
-selects to your form:
+## Form helpers
+carmen-rails provides form helpers for country or subregion selects:
 
 ```erb
 # For the standard rails form helpers:
@@ -46,7 +46,6 @@ selects to your form:
 <% end %>
 ```
 
-
 Here is the content of the `subregion_select` partial:
 
 ```erb
@@ -68,6 +67,8 @@ Note that we're defaulting to a text field input when we don't have subregion
 information for a country, and that if we don't have a country at all, we show
 a simple message.
 
+## Javascripts
+
 Now we will add a small script in `app/assets/javascripts/orders.js.coffee` that replaces the subregion select when the country
 select's value changes. A wrapper div has been added to make this simpler.
 
@@ -84,6 +85,7 @@ $ ->
     select_wrapper.load(url)
 ```
 
+## Routing
 Now we just need to add a route to `config/routes.rb` as follows:
 
 ```ruby
@@ -101,6 +103,7 @@ Or alternatively:
 get '/orders/subregion_options' => 'orders#subregion_options'
 ```
 
+## Controller Action
 And a basic controller action to the appropriate controller:
 
 ```ruby
@@ -109,8 +112,22 @@ def subregion_options
 end
 ```
 
-And that's a simple example, that can serve as the foundation of a variety of more involved interactions.
+## Extending carmen-rails with city data
 
-As an example of how to extend carmen-rails further, here are instructions on how to implement select menus for cities. In my case, if the address is in China, then I want users to select a city from a list, otherwise they should type it in manually.
+Say we want to extend carmen-rails to include city data. In my case, most addresses will be in China. So I'll add city data only for China (adding it for the whole world would be too much work!), but the principle is the same no matter which countries' city data you add.
 
-City data generally does not come built in to Carmen, so we find and add it ourselves. The structural data goes in the `lib/carmen` directory.
+### Manually find and add city data
+
+The structural data goes in the `lib/carmen` directory.
+The locale files containing various languages' translations go into the `config/locales/carmen` directory
+We adjust the 
+
+```ruby
+# In config/initializers/carmen.rb
+# Adds the extra structural data for cities into Carmen's data_path
+Carmen.append_data_path File.expand_path('../../../lib/carmen/', __FILE__)
+
+# In config/application.rb
+# Adds config/locales as well as all subdirectories to the i18n load path, so that our translations will be loaded
+config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.{rb,yml}')]
+```

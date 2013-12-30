@@ -1,0 +1,1 @@
+Carmen.append_data_path File.expand_path('../../../lib/carmen/', __FILE__)
