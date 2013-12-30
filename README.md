@@ -133,3 +133,6 @@ Carmen.append_data_path File.expand_path('../../../lib/carmen/', __FILE__)
 # Tells Carmen about the extra translations for cities that we added (loads not only config/locales but all subdirectories as well)
 config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.{rb,yml}')]
 ```
+
+### Add city field to views
+See the source code for the example
