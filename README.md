@@ -25,17 +25,11 @@ Use the new form helpers provided by carmen-rails to add country or subregion
 selects to your form:
 
 ```erb
+# For the standard rails form helpers:
 <div class="field">
   <%= f.label :country_code %><br />
   <%= f.country_select :country_code, priority: %w(US CA), prompt: 'Please select a country' %>
 </div>
-```
- That's all there is to it. If you want to support a subregion field and have
- the options inside it updated by value in the country select, place this input
- inside a partial:
-
-```erb
-# For the standard rails form helpers:
 <div class="field">
   <%= f.label :state_code %><br />
   <%= render partial: 'subregion_select', locals: {parent_region: f.object.country_code} %>
