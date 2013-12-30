@@ -114,7 +114,7 @@ end
 
 ## Extending carmen-rails with city data
 
-In my case, most addresses will be in China, so that's the only city data I'll add. But the principle is the same no matter which countries are involved.
+I'll demonstrate adding cities by adding city data for Mainland China. But the principle is the same no matter which countries' cities you choose to include.
 
 ### Manually find and add city data
 
