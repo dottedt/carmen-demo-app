@@ -1,0 +1,45 @@
+---
+en:
+  world:
+    cn:
+      '34':
+        anqing:
+          name: Anqing
+        bengbu:
+          name: Bengbu
+        bozhou:
+          name: Bozhou
+        ch:
+          name: Chaohu
+        chizhou:
+          name: Chizhou
+        chuzhou:
+          name: Chuzhou
+        fy:
+          name: Fuyang
+        hf:
+          name: Hefei
+        hexian:
+          name: Hexian
+        huaibei:
+          name: Huaibei
+        hn:
+          name: Huainan
+        huangshan:
+          name: Huangshan
+        hq:
+          name: Huoqiu
+        la:
+          name: Liu'an
+        mas:
+          name: Ma'anshan
+        suzhou:
+          name: Suzhou
+        tongcheng:
+          name: Tongcheng
+        tongling:
+          name: Tongling
+        wuhu:
+          name: Wuhu
+        xuancheng:
+          name: Xuancheng

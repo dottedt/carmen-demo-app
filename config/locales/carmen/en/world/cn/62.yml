@@ -1,0 +1,33 @@
+---
+en:
+  world:
+    cn:
+      '62':
+        by:
+          name: Baiyin
+        dx:
+          name: Dingxi
+        gn:
+          name: Gannan
+        jyg:
+          name: Jiayuguan
+        jinchang:
+          name: Jinchang
+        jq:
+          name: Jiuquan
+        lz:
+          name: Lanzhou
+        linxia:
+          name: Linxia
+        ln:
+          name: Longnan
+        pl:
+          name: Pingliang
+        qingyang:
+          name: Qingyang
+        tianshui:
+          name: Tianshui
+        wuwei:
+          name: Wuwei
+        zhangye:
+          name: Zhangye

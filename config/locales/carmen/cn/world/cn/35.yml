@@ -1,0 +1,25 @@
+---
+cn:
+  world:
+    cn:
+      '35':
+        fz:
+          name: 福州
+        ly:
+          name: 龙岩
+        nd:
+          name: 宁德
+        np:
+          name: 南平
+        pt:
+          name: 莆田
+        qz:
+          name: 泉州
+        sm:
+          name: 三明
+        wuyishan:
+          name: 武夷山
+        xm:
+          name: 厦门
+        zhangzhou:
+          name: 漳州

@@ -1,0 +1,23 @@
+---
+en:
+  world:
+    cn:
+      '52':
+        anshun:
+          name: Anshun
+        bijie:
+          name: Bijie
+        gy:
+          name: Guiyang
+        lps:
+          name: Liupanshui
+        qdn:
+          name: Qiandongnan
+        qn:
+          name: Qiannan
+        qxn:
+          name: Qianxinan
+        tr:
+          name: Tongren
+        zunyi:
+          name: Zunyi

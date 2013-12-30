@@ -1,0 +1,53 @@
+---
+cn:
+  world:
+    cn:
+      '44':
+        chaozhou:
+          name: 潮州
+        dg:
+          name: 东莞
+        fs:
+          name: 佛山
+        gz:
+          name: 广州
+        huizhou:
+          name: 惠州
+        heyuan:
+          name: 河源
+        jm:
+          name: 江门
+        jy:
+          name: 揭阳
+        mm:
+          name: 茂名
+        mz:
+          name: 梅州
+        qingyuan:
+          name: 清远
+        sd:
+          name: 顺德
+        sz:
+          name: 深圳
+        st:
+          name: 汕头
+        sg:
+          name: 韶关
+        sw:
+          name: 汕尾
+        taishan:
+          name: 台山
+        yj:
+          name: 阳江
+        yangchun:
+          name: 阳春
+        yf:
+          name: 云浮
+        zh:
+          name: 珠海
+        zs:
+          name: 中山
+        zhanjiang:
+          name: 湛江
+        zq:
+          name: 肇庆

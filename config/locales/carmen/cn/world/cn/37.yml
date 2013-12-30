@@ -1,0 +1,45 @@
+---
+cn:
+  world:
+    cn:
+      '37':
+        bz:
+          name: 滨州
+        dz:
+          name: 德州
+        dy:
+          name: 东营
+        heze:
+          name: 菏泽
+        jn:
+          name: 济南
+        jining:
+          name: 济宁
+        kl:
+          name: 垦利
+        linyi:
+          name: 临沂
+        lc:
+          name: 聊城
+        lw:
+          name: 莱芜
+        qd:
+          name: 青岛
+        rizhao:
+          name: 日照
+        ta:
+          name: 泰安
+        wf:
+          name: 潍坊
+        weihai:
+          name: 威海
+        yt:
+          name: 烟台
+        zb:
+          name: 淄博
+        zaozhuang:
+          name: 枣庄
+        zhangqiu:
+          name: 章丘
+        zc:
+          name: 诸城

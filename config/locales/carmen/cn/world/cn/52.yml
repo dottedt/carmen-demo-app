@@ -1,0 +1,23 @@
+---
+cn:
+  world:
+    cn:
+      '52':
+        anshun:
+          name: 安顺
+        bijie:
+          name: 毕节
+        gy:
+          name: 贵阳
+        lps:
+          name: 六盘水
+        qdn:
+          name: 黔东南
+        qn:
+          name: 黔南
+        qxn:
+          name: 黔西南
+        tr:
+          name: 铜仁
+        zunyi:
+          name: 遵义

@@ -109,5 +109,8 @@ def subregion_options
 end
 ```
 
-And that's basically it. This is obviously a very simple example, but it can
-serve as the foundation of a variety of more involved interactions.
+And that's a simple example, that can serve as the foundation of a variety of more involved interactions.
+
+As an example of how to extend carmen-rails further, here are instructions on how to implement select menus for cities. In my case, if the address is in China, then I want users to select a city from a list, otherwise they should type it in manually.
+
+City data generally does not come built in to Carmen, so we find and add it ourselves. The structural data goes in the `lib/carmen` directory.

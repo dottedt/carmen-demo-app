@@ -1,0 +1,32 @@
+---
+cn:
+  world:
+    cn:
+      '15':
+        alsm:
+          name: 阿拉善盟
+        bt:
+          name: 包头
+        bycem:
+          name: 巴彦淖尔盟
+        chifeng:
+          name: 赤峰
+        erds:
+          name: 鄂尔多斯
+        hu:
+          name: 呼和浩特
+        hlbe:
+          name: 呼伦贝尔
+        hlr:
+          name: 海拉尔
+        tongliao:
+          name: 通辽
+        wuhai:
+          name: 乌海
+        wlcb:
+          name: 乌兰察布
+        xl:
+          name: 锡林郭勒盟
+        xam:
+          name: 兴安盟
+

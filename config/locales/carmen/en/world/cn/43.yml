@@ -1,0 +1,33 @@
+---
+en:
+  world:
+    cn:
+      '43':
+        changde:
+          name: Changde
+        cs:
+          name: Changsha
+        chenzhou:
+          name: Chenzhou
+        hy:
+          name: Hengyang
+        hh:
+          name: Huaihua
+        ld:
+          name: Loudi
+        shaoyang:
+          name: Shaoyang
+        xiangtan:
+          name: Xiangtan
+        xiangxi:
+          name: Xiangxi
+        yiyang:
+          name: Yiyang
+        yongzhou:
+          name: Yongzhou
+        yy:
+          name: Yueyang
+        zjj:
+          name: Zhangjiajie
+        zhuzhou:
+          name: Zhuzhou

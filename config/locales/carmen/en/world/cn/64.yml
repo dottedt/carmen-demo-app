@@ -1,0 +1,15 @@
+---
+en:
+  world:
+    cn:
+      '64':
+        guyuan:
+          name: Guyuan
+        szs:
+          name: Shizuishan
+        wuzhong:
+          name: Wuzhong
+        yinchuan:
+          name: Yinchuan
+        zw:
+          name: Zhongwei

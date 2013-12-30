@@ -1,0 +1,49 @@
+---
+cn:
+  world:
+    cn:
+      '41':
+        ay:
+          name: 安阳
+        changge:
+          name: 长葛
+        hb:
+          name: 鹤壁
+        jiaozuo:
+          name: 焦作
+        jiyuan:
+          name: 济源
+        kaifeng:
+          name: 开封
+        luoyang:
+          name: 洛阳
+        luohe:
+          name: 漯河
+        mg:
+          name: 明港
+        ny:
+          name: 南阳
+        pds:
+          name: 平顶山
+        puyang:
+          name: 濮阳
+        sq:
+          name: 商丘
+        smx:
+          name: 三门峡
+        xx:
+          name: 新乡
+        xc:
+          name: 许昌
+        xy:
+          name: 信阳
+        yuzhou:
+          name: 禹州
+        yanling:
+          name: 鄢陵
+        zz:
+          name: 郑州
+        zk:
+          name: 周口
+        zmd:
+          name: 驻马店

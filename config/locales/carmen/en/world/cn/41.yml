@@ -1,0 +1,49 @@
+---
+en:
+  world:
+    cn:
+      '41':
+        ay:
+          name: Anyang
+        changge:
+          name: Changge
+        hb:
+          name: Hebi
+        jiaozuo:
+          name: Jiaozuo
+        jiyuan:
+          name: Jiyuan
+        kaifeng:
+          name: Kaifeng
+        luoyang:
+          name: Luoyang
+        luohe:
+          name: Luohe
+        mg:
+          name: Minggang
+        ny:
+          name: Nanyang
+        pds:
+          name: Pingdingshan
+        puyang:
+          name: Puyang
+        smx:
+          name: Sanmenxia
+        sq:
+          name: Shangqiu
+        xx:
+          name: Xinxiang
+        xy:
+          name: Xinyang
+        xc:
+          name: Xuchang
+        yanling:
+          name: Yanling
+        yuzhou:
+          name: Yuzhou
+        zz:
+          name: Zhengzhou
+        zk:
+          name: Zhoukou
+        zmd:
+          name: Zhumadian

@@ -1,0 +1,11 @@
+---
+- code: guyuan
+  type: city
+- code: szs
+  type: city
+- code: wuzhong
+  type: city
+- code: yinchuan
+  type: city
+- code: zw
+  type: city

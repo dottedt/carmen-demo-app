@@ -1,0 +1,25 @@
+---
+- code: fuzhou
+  type: city
+- code: ganzhou
+  type: city
+- code: ja
+  type: city
+- code: jdz
+  type: city
+- code: jj
+  type: city
+- code: nc
+  type: city
+- code: px
+  type: city
+- code: sr
+  type: city
+- code: xinyu
+  type: city
+- code: yichun
+  type: city
+- code: yingtan
+  type: city
+- code: yxx
+  type: city

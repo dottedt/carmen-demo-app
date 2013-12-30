@@ -1,0 +1,31 @@
+---
+en:
+  world:
+    cn:
+      '14':
+        changzhi:
+          name: Changzhi
+        dt:
+          name: Datong
+        jincheng:
+          name: Jincheng
+        jz:
+          name: Jinzhong
+        linfen:
+          name: Linfen
+        linyixian:
+          name: Linyi
+        lvliang:
+          name: Lvliang
+        qingxu:
+          name: Qingxu
+        shuozhou:
+          name: Shuozhou
+        ty:
+          name: Taiyuan
+        xinzhou:
+          name: Xinzhou
+        yq:
+          name: Yangquan
+        yuncheng:
+          name: Yuncheng

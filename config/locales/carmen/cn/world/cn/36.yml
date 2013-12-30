@@ -1,0 +1,29 @@
+---
+cn:
+  world:
+    cn:
+      '36':
+        fuzhou:
+          name: 抚州
+        ganzhou:
+          name: 赣州
+        jj:
+          name: 九江
+        ja:
+          name: 吉安
+        jdz:
+          name: 景德镇
+        nc:
+          name: 南昌
+        px:
+          name: 萍乡
+        sr:
+          name: 上饶
+        xinyu:
+          name: 新余
+        yingtan:
+          name: 鹰潭
+        yichun:
+          name: 宜春
+        yxx:
+          name: 永新

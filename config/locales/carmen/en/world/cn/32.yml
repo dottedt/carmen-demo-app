@@ -1,0 +1,35 @@
+---
+en:
+  world:
+    cn:
+      '32':
+        cz:
+          name: Changzhou
+        dafeng:
+          name: Dafeng
+        ha:
+          name: Huai'an
+        lyg:
+          name: Lianyungang
+        nj:
+          name: Nanjing
+        nt:
+          name: Nantong
+        shuyang:
+          name: Shuyang
+        suqian:
+          name: Suqian
+        su:
+          name: Suzhou
+        taizhou:
+          name: Taizhou
+        wx:
+          name: Wuxi
+        xz:
+          name: Xuzhou
+        yancheng:
+          name: Yancheng
+        yz:
+          name: Yangzhou
+        zj:
+          name: Zhenjiang

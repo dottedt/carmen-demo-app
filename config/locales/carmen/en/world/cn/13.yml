@@ -1,0 +1,37 @@
+---
+en:
+  world:
+    cn:
+      '13':
+        bd:
+          name: Baoding
+        cangzhou:
+          name: Cangzhou
+        chengde:
+          name: Chengde
+        dingzhou:
+          name: Dingzhou
+        gt:
+          name: Guantao
+        hd:
+          name: Handan
+        hs:
+          name: Hengshui
+        lf:
+          name: Langfang
+        qhd:
+          name: Qinhuangdao
+        sjz:
+          name: Shijiazhuang
+        ts:
+          name: Tangshan
+        xt:
+          name: Xingtai
+        zhangbei:
+          name: Zhangbei
+        zjk:
+          name: Zhangjiakou
+        zx:
+          name: Zhaoxian
+        zd:
+          name: Zhengding

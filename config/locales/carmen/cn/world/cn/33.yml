@@ -1,0 +1,29 @@
+---
+cn:
+  world:
+    cn:
+      '33':
+        hz:
+          name: 杭州
+        huzhou:
+          name: 湖州
+        jx:
+          name: 嘉兴
+        jh:
+          name: 金华
+        lishui:
+          name: 丽水
+        nb:
+          name: 宁波
+        quzhou:
+          name: 衢州
+        sx:
+          name: 绍兴
+        shengzhou:
+          name: 嵊州
+        tz:
+          name: 台州
+        wz:
+          name: 温州
+        zhoushan:
+          name: 舟山

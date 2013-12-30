@@ -1,0 +1,33 @@
+---
+cn:
+  world:
+    cn:
+      '43':
+        cs:
+          name: 长沙
+        changde:
+          name: 常德
+        chenzhou:
+          name: 郴州
+        hy:
+          name: 衡阳
+        hh:
+          name: 怀化
+        ld:
+          name: 娄底
+        shaoyang:
+          name: 邵阳
+        xiangtan:
+          name: 湘潭
+        xiangxi:
+          name: 湘西
+        yy:
+          name: 岳阳
+        yongzhou:
+          name: 永州
+        yiyang:
+          name: 益阳
+        zhuzhou:
+          name: 株洲
+        zjj:
+          name: 张家界

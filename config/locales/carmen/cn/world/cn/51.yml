@@ -1,0 +1,47 @@
+---
+cn:
+  world:
+    cn:
+      '51':
+        ab:
+          name: 阿坝
+        bazhong:
+          name: 巴中
+        cd:
+          name: 成都
+        deyang:
+          name: 德阳
+        dazhou:
+          name: 达州
+        ga:
+          name: 广安
+        guangyuan:
+          name: 广元
+        ganzi:
+          name: 甘孜
+        ls:
+          name: 乐山
+        luzhou:
+          name: 泸州
+        liangshan:
+          name: 凉山
+        mianyang:
+          name: 绵阳
+        ms:
+          name: 眉山
+        scnj:
+          name: 内江
+        nanchong:
+          name: 南充
+        panzhihua:
+          name: 攀枝花
+        suining:
+          name: 遂宁
+        yb:
+          name: 宜宾
+        ya:
+          name: 雅安
+        zg:
+          name: 自贡
+        zy:
+          name: 资阳

@@ -1,0 +1,29 @@
+---
+en:
+  world:
+    cn:
+      '36':
+        fuzhou:
+          name: Fuzhou
+        ganzhou:
+          name: Ganzhou
+        ja:
+          name: Ji'an
+        jdz:
+          name: Jingdezhen
+        jj:
+          name: Jiujiang
+        nc:
+          name: Nanchang
+        px:
+          name: Pingxiang
+        sr:
+          name: Shangrao
+        xinyu:
+          name: Xinyu
+        yichun:
+          name: Yichun
+        yingtan:
+          name: Yingtan
+        yxx:
+          name: Yongxin

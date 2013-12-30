@@ -1,0 +1,35 @@
+---
+cn:
+  world:
+    cn:
+      '21':
+        as:
+          name: 鞍山
+        benxi:
+          name: 本溪
+        cy:
+          name: 朝阳
+        dl:
+          name: 大连
+        dandong:
+          name: 丹东
+        fushun:
+          name: 抚顺
+        fx:
+          name: 阜新
+        hld:
+          name: 葫芦岛
+        jinzhou:
+          name: 锦州
+        liaoyang:
+          name: 辽阳
+        pj:
+          name: 盘锦
+        sy:
+          name: 沈阳
+        tl:
+          name: 铁岭
+        wfd:
+          name: 瓦房店
+        yk:
+          name: 营口

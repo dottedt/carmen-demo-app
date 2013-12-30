@@ -1,0 +1,47 @@
+---
+en:
+  world:
+    cn:
+      '51':
+        ab:
+          name: Aba
+        bazhong:
+          name: Bazhong
+        cd:
+          name: Chengdu
+        dazhou:
+          name: Dazhou
+        deyang:
+          name: Deyang
+        ga:
+          name: Guang'an
+        guangyuan:
+          name: Guangyuan
+        ganzi:
+          name: Ganzi
+        ls:
+          name: Leshan
+        liangshan:
+          name: Liangshan
+        luzhou:
+          name: Luzhou
+        ms:
+          name: Meishan
+        mianyang:
+          name: Mianyang
+        nanchong:
+          name: Nanchong
+        scnj:
+          name: Neijiang
+        panzhihua:
+          name: Panzhihua
+        suining:
+          name: Suining
+        ya:
+          name: Yaan
+        yb:
+          name: Yibin
+        zg:
+          name: Zigong
+        zy:
+          name: Ziyang

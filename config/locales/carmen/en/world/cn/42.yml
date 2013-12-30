@@ -1,0 +1,39 @@
+---
+en:
+  world:
+    cn:
+      '42':
+        es:
+          name: Enshi
+        ez:
+          name: Ezhou
+        hg:
+          name: Huangang
+        hshi:
+          name: Huangshi
+        jingmen:
+          name: Jingmen
+        jingzhou:
+          name: Jingzhou
+        qianjiang:
+          name: Qianjiang
+        snj:
+          name: Shennongjia
+        shiyan:
+          name: Shiyan
+        suizhou:
+          name: Suizhou
+        tm:
+          name: Tianmen
+        wh:
+          name: Wuhan
+        xf:
+          name: Xiangfan
+        xianning:
+          name: Xianning
+        xiantao:
+          name: Xiantao
+        xiaogan:
+          name: Xiaogan
+        yc:
+          name: Yichang

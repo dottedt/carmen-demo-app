@@ -1,0 +1,31 @@
+---
+en:
+  world:
+    cn:
+      '23':
+        dq:
+          name: Daqing
+        dxal:
+          name: Daxing'anling
+        hrb:
+          name: Harbin
+        hegang:
+          name: Hegang
+        heihe:
+          name: Heihe
+        jms:
+          name: Jiamusi
+        jixi:
+          name: Jixi
+        mdj:
+          name: Mudanjiang
+        qqhr:
+          name: Qiqihar
+        qth:
+          name: Qitaihe
+        sys:
+          name: Shuangyashan
+        suihua:
+          name: Suihua
+        yich:
+          name: Yichun

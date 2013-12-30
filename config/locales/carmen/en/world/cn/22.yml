@@ -1,0 +1,23 @@
+---
+en:
+  world:
+    cn:
+      '22':
+        bc:
+          name: Baicheng
+        baishan:
+          name: Baishan
+        cc:
+          name: Changchun
+        jl:
+          name: Jiling
+        liaoyuan:
+          name: Liaoyuan
+        sp:
+          name: Siping
+        songyuan:
+          name: Songyuan
+        th:
+          name: Tonghua
+        yanbian:
+          name: Yanbian

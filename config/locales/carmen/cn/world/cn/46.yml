@@ -1,0 +1,13 @@
+---
+cn:
+  world:
+    cn:
+      '46':
+        haikou:
+          name: 海口
+        hainan:
+          name: 海南
+        sanya:
+          name: 三亚
+        wzs:
+          name: 五指山

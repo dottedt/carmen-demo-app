@@ -1,0 +1,9 @@
+---
+- code: haikou
+  type: city
+- code: hainan
+  type: city
+- code: sanya
+  type: city
+- code: wzs
+  type: city

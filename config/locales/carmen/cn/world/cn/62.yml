@@ -1,0 +1,33 @@
+---
+cn:
+  world:
+    cn:
+      '62':
+        by:
+          name: 白银
+        dx:
+          name: 定西
+        gn:
+          name: 甘南
+        jinchang:
+          name: 金昌
+        jyg:
+          name: 嘉峪关
+        jq:
+          name: 酒泉
+        lz:
+          name: 兰州
+        linxia:
+          name: 临夏
+        ln:
+          name: 陇南
+        pl:
+          name: 平凉
+        qingyang:
+          name: 庆阳
+        tianshui:
+          name: 天水
+        wuwei:
+          name: 武威
+        zhangye:
+          name: 张掖

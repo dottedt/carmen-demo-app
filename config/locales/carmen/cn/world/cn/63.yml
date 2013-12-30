@@ -1,0 +1,19 @@
+---
+cn:
+  world:
+    cn:
+      '63':
+        guoluo:
+          name: 果洛
+        huangnan:
+          name: 黄南
+        hx:
+          name: 海西
+        haidong:
+          name: 海东
+        haibei:
+          name: 海北
+        xn:
+          name: 西宁
+        ys:
+          name: 玉树

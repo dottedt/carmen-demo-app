@@ -1,0 +1,19 @@
+---
+- code: anshun
+  type: city
+- code: bijie
+  type: city
+- code: gy
+  type: city
+- code: lps
+  type: city
+- code: qdn
+  type: city
+- code: qn
+  type: city
+- code: qxn
+  type: city
+- code: tr
+  type: city
+- code: zunyi
+  type: city

@@ -1,0 +1,31 @@
+---
+cn:
+  world:
+    cn:
+      '23':
+        dq:
+          name: 大庆
+        dxal:
+          name: 大兴安岭
+        hrb:
+          name: 哈尔滨
+        hegang:
+          name: 鹤岗
+        heihe:
+          name: 黑河
+        jms:
+          name: 佳木斯
+        jixi:
+          name: 鸡西
+        mdj:
+          name: 牡丹江
+        qqhr:
+          name: 齐齐哈尔
+        qth:
+          name: 七台河
+        suihua:
+          name: 绥化
+        sys:
+          name: 双鸭山
+        yich:
+          name: 伊春

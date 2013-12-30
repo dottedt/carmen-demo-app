@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    cn:
+      '35':
+        fz:
+          name: Fuzhou
+        ly:
+          name: Longyan
+        np:
+          name: Nanping
+        nd:
+          name: Ningde
+        pt:
+          name: Putian
+        qz:
+          name: Quanzhou
+        sm:
+          name: Sanming
+        wuyishan:
+          name: Wuyishan
+        xm:
+          name: Xiamen
+        zhangzhou:
+          name: Zhangzhou

@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    cn:
+      '61':
+        ankang:
+          name: Ankang
+        baoji:
+          name: Baoji
+        hanzhong:
+          name: Hanzhong
+        sl:
+          name: Shangluo
+        tc:
+          name: Tongchuan
+        wn:
+          name: Weinan
+        xa:
+          name: Xi'an
+        xianyang:
+          name: Xianyang
+        yanan:
+          name: Yanan
+        yl:
+          name: Yulin

@@ -1,0 +1,23 @@
+---
+cn:
+  world:
+    cn:
+      '22':
+        bc:
+          name: 白城
+        baishan:
+          name: 白山
+        cc:
+          name: 长春
+        jl:
+          name: 吉林
+        liaoyuan:
+          name: 辽源
+        songyuan:
+          name: 松原
+        sp:
+          name: 四平
+        th:
+          name: 通化
+        yanbian:
+          name: 延边

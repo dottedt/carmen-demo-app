@@ -1,0 +1,37 @@
+---
+cn:
+  world:
+    cn:
+      '53':
+        bs:
+          name: 保山
+        cx:
+          name: 楚雄
+        dali:
+          name: 大理
+        diqing:
+          name: 迪庆
+        dh:
+          name: 德宏
+        honghe:
+          name: 红河
+        km:
+          name: 昆明
+        lj:
+          name: 丽江
+        lincang:
+          name: 临沧
+        nujiang:
+          name: 怒江
+        pe:
+          name: 普洱
+        qj:
+          name: 曲靖
+        ws:
+          name: 文山
+        bn:
+          name: 西双版纳
+        yx:
+          name: 玉溪
+        zt:
+          name: 昭通

@@ -1,0 +1,39 @@
+---
+cn:
+  world:
+    cn:
+      '42':
+        es:
+          name: 恩施
+        ez:
+          name: 鄂州
+        hshi:
+          name: 黄石
+        hg:
+          name: 黄冈
+        jingzhou:
+          name: 荆州
+        jingmen:
+          name: 荆门
+        qianjiang:
+          name: 潜江
+        shiyan:
+          name: 十堰
+        snj:
+          name: 神农架
+        suizhou:
+          name: 随州
+        tm:
+          name: 天门
+        wh:
+          name: 武汉
+        xf:
+          name: 襄樊
+        xiaogan:
+          name: 孝感
+        xiantao:
+          name: 仙桃
+        xianning:
+          name: 咸宁
+        yc:
+          name: 宜昌

@@ -1,0 +1,39 @@
+---
+cn:
+  world:
+    cn:
+      '65':
+        aks:
+          name: 阿克苏
+        ale:
+          name: 阿拉尔
+        bygl:
+          name: 巴音郭楞
+        betl:
+          name: 博尔塔拉
+        changji:
+          name: 昌吉
+        hami:
+          name: 哈密
+        ht:
+          name: 和田
+        klmy:
+          name: 克拉玛依
+        kel:
+          name: 库尔勒
+        ks:
+          name: 喀什
+        kzls:
+          name: 克孜勒苏
+        shz:
+          name: 石河子
+        tlf:
+          name: 吐鲁番
+        tmsk:
+          name: 图木舒克
+        xj:
+          name: 乌鲁木齐
+        wjq:
+          name: 五家渠
+        yili:
+          name: 伊犁

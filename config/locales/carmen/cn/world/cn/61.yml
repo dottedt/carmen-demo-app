@@ -1,0 +1,25 @@
+---
+cn:
+  world:
+    cn:
+      '61':
+        ankang:
+          name: 安康
+        baoji:
+          name: 宝鸡
+        hanzhong:
+          name: 汉中
+        sl:
+          name: 商洛
+        tc:
+          name: 铜川
+        wn:
+          name: 渭南
+        xa:
+          name: 西安
+        xianyang:
+          name: 咸阳
+        yanan:
+          name: 延安
+        yl:
+          name: 榆林

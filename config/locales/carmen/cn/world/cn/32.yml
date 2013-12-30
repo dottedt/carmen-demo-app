@@ -1,0 +1,35 @@
+---
+cn:
+  world:
+    cn:
+      '32':
+        cz:
+          name: 常州
+        dafeng:
+          name: 大丰
+        ha:
+          name: 淮安
+        lyg:
+          name: 连云港
+        nj:
+          name: 南京
+        nt:
+          name: 南通
+        su:
+          name: 苏州
+        shuyang:
+          name: 沭阳
+        suqian:
+          name: 宿迁
+        taizhou:
+          name: 泰州
+        wx:
+          name: 无锡
+        xz:
+          name: 徐州
+        yz:
+          name: 扬州
+        yancheng:
+          name: 盐城
+        zj:
+          name: 镇江

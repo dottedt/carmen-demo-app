@@ -1,0 +1,21 @@
+---
+- code: fz
+  type: city
+- code: ly
+  type: city
+- code: np
+  type: city
+- code: nd
+  type: city
+- code: pt
+  type: city
+- code: qz
+  type: city
+- code: sm
+  type: city
+- code: wuyishan
+  type: city
+- code: xm
+  type: city
+- code: zhangzhou
+  type: city

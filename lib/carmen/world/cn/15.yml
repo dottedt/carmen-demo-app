@@ -1,0 +1,27 @@
+---
+- code: alsm
+  type: city
+- code: bt
+  type: city
+- code: bycem
+  type: city
+- code: chifeng
+  type: city
+- code: hlr
+  type: city
+- code: hu
+  type: city
+- code: hlbe
+  type: city
+- code: erds
+  type: city
+- code: tongliao
+  type: city
+- code: wuhai
+  type: city
+- code: wlcb
+  type: city
+- code: xl
+  type: city
+- code: xam
+  type: city

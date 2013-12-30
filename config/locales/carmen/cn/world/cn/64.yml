@@ -1,0 +1,15 @@
+---
+cn:
+  world:
+    cn:
+      '64':
+        guyuan:
+          name: 固原
+        szs:
+          name: 石嘴山
+        wuzhong:
+          name: 吴忠
+        yinchuan:
+          name: 银川
+        zw:
+          name: 中卫

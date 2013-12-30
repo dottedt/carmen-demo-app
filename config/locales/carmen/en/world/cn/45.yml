@@ -1,0 +1,33 @@
+---
+en:
+  world:
+    cn:
+      '45':
+        baise:
+          name: Baise
+        bh:
+          name: Beihai
+        chongzuo:
+          name: Chongzuo
+        fcg:
+          name: Fangchenggang
+        gg:
+          name: Guigang
+        gl:
+          name: Guilin
+        hc:
+          name: Hechi
+        hezhou:
+          name: Hezhou
+        lb:
+          name: Laibin
+        liuzhou:
+          name: Liuzhou
+        nn:
+          name: Nanning
+        qinzhou:
+          name: Qinzhou
+        wuzhou:
+          name: Wuzhou
+        yulin:
+          name: Yulin

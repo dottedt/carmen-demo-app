@@ -1,0 +1,19 @@
+---
+- code: bc
+  type: city
+- code: baishan
+  type: city
+- code: cc
+  type: city
+- code: jl
+  type: city
+- code: liaoyuan
+  type: city
+- code: sp
+  type: city
+- code: songyuan
+  type: city
+- code: th
+  type: city
+- code: yanbian
+  type: city

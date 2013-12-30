@@ -1,0 +1,33 @@
+---
+cn:
+  world:
+    cn:
+      '45':
+        baise:
+          name: 百色
+        bh:
+          name: 北海
+        chongzuo:
+          name: 崇左
+        fcg:
+          name: 防城港
+        gl:
+          name: 桂林
+        gg:
+          name: 贵港
+        hc:
+          name: 河池
+        hezhou:
+          name: 贺州
+        liuzhou:
+          name: 柳州
+        lb:
+          name: 来宾
+        nn:
+          name: 南宁
+        qinzhou:
+          name: 钦州
+        wuzhou:
+          name: 梧州
+        yulin:
+          name: 玉林

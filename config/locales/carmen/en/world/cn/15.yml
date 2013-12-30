@@ -1,0 +1,31 @@
+---
+en:
+  world:
+    cn:
+      '15':
+        alsm:
+          name: Alasanmeng
+        bt:
+          name: Baotou
+        bycem:
+          name: Bayanzhuormeng
+        chifeng:
+          name: Chifeng
+        hlr:
+          name: Hailar
+        hu:
+          name: Hohhot
+        hlbe:
+          name: Hulunbeir
+        erds:
+          name: Ordos
+        tongliao:
+          name: Tongliao
+        wuhai:
+          name: Wuhai
+        wlcb:
+          name: Wulanchabu
+        xl:
+          name: Xilinguolemeng
+        xam:
+          name: Xing'anmeng

@@ -1,0 +1,19 @@
+---
+en:
+  world:
+    cn:
+      '63':
+        guoluo:
+          name: Guoluo
+        haibei:
+          name: Haibei
+        haidong:
+          name: Haidong
+        hx:
+          name: Haixi
+        huangnan:
+          name: Huangnan
+        xn:
+          name: Xining
+        ys:
+          name: YuShu

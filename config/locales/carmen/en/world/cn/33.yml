@@ -1,0 +1,29 @@
+---
+en:
+  world:
+    cn:
+      '33':
+        hz:
+          name: Hangzhou
+        huzhou:
+          name: Huzhou
+        jx:
+          name: Jiaxing
+        jh:
+          name: Jinhua
+        lishui:
+          name: Lishui
+        nb:
+          name: Ningbo
+        quzhou:
+          name: Quzhou
+        sx:
+          name: Shaoxing
+        shengzhou:
+          name: Shengzhou
+        tz:
+          name: Taizhou
+        wz:
+          name: Wenzhou
+        zhoushan:
+          name: Zhoushan

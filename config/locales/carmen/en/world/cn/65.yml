@@ -1,0 +1,39 @@
+---
+en:
+  world:
+    cn:
+      '65':
+        aks:
+          name: Akesu
+        ale:
+          name: Alar
+        bygl:
+          name: Bayinguoleng
+        betl:
+          name: Bortala
+        changji:
+          name: Changji
+        hami:
+          name: Hami
+        ks:
+          name: Kashen
+        klmy:
+          name: Kelamayi
+        ht:
+          name: Hetian
+        kzls:
+          name: Kezilesu
+        kel:
+          name: Kurle
+        shz:
+          name: Shihezi
+        tlf:
+          name: Tulufan
+        tmsk:
+          name: Tumushuke
+        wjq:
+          name: Wujiaqu
+        xj:
+          name: Wulumuqi
+        yili:
+          name: Yili

@@ -1,0 +1,25 @@
+---
+- code: hz
+  type: city
+- code: huzhou
+  type: city
+- code: jx
+  type: city
+- code: jh
+  type: city
+- code: lishui
+  type: city
+- code: nb
+  type: city
+- code: quzhou
+  type: city
+- code: sx
+  type: city
+- code: shengzhou
+  type: city
+- code: tz
+  type: city
+- code: wz
+  type: city
+- code: zhoushan
+  type: city

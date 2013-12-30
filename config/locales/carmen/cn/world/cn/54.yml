@@ -1,0 +1,19 @@
+---
+cn:
+  world:
+    cn:
+      '54':
+        al:
+          name: 阿里
+        changdu:
+          name: 昌都
+        lasa:
+          name: 拉萨
+        linzhi:
+          name: 林芝
+        nq:
+          name: 那曲
+        rkz:
+          name: 日喀则
+        sn:
+          name: 山南

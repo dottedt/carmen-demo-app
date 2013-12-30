@@ -1,0 +1,37 @@
+---
+cn:
+  world:
+    cn:
+      '13':
+        bd:
+          name: 保定
+        cangzhou:
+          name: 沧州
+        chengde:
+          name: 承德
+        dingzhou:
+          name: 定州
+        gt:
+          name: 馆陶
+        hd:
+          name: 邯郸
+        hs:
+          name: 衡水
+        lf:
+          name: 廊坊
+        qhd:
+          name: 秦皇岛
+        sjz:
+          name: 石家庄
+        ts:
+          name: 唐山
+        xt:
+          name: 邢台
+        zjk:
+          name: 张家口
+        zd:
+          name: 正定
+        zx:
+          name: 赵县
+        zhangbei:
+          name: 张北

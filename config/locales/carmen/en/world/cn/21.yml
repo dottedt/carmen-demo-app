@@ -1,0 +1,35 @@
+---
+en:
+  world:
+    cn:
+      '21':
+        as:
+          name: Anshan
+        benxi:
+          name: Benxi
+        cy:
+          name: Chaoyang
+        dandong:
+          name: Dandong
+        dl:
+          name: Dialian
+        fushun:
+          name: Fushun
+        fx:
+          name: Fuxin
+        hld:
+          name: Huludao
+        jinzhou:
+          name: Jinzhou
+        liaoyang:
+          name: Liaoyang
+        pj:
+          name: Panjin
+        sy:
+          name: Shenyang
+        tl:
+          name: Tieling
+        wfd:
+          name: Wafangdian
+        yk:
+          name: Yingkou

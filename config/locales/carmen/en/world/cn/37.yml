@@ -1,0 +1,45 @@
+---
+en:
+  world:
+    cn:
+      '37':
+        bz:
+          name: Binzhou
+        dz:
+          name: Dezhou
+        dy:
+          name: Dongyin
+        heze:
+          name: Heze
+        jn:
+          name: Jinan
+        jining:
+          name: Jining
+        kl:
+          name: Kenli
+        lw:
+          name: Laiwu
+        lc:
+          name: Liaocheng
+        linyi:
+          name: Linyi
+        qd:
+          name: Qingdao
+        rizhao:
+          name: Rizhao
+        ta:
+          name: Tai'an
+        wf:
+          name: Weifang
+        weihai:
+          name: Weihai
+        yt:
+          name: Yantai
+        zaozhuang:
+          name: Zaozhuang
+        zhangqiu:
+          name: Zhangqiu
+        zc:
+          name: Zhucheng
+        zb:
+          name: Zibo

@@ -1,0 +1,53 @@
+---
+en:
+  world:
+    cn:
+      '44':
+        chaozhou:
+          name: Chaozhou
+        dg:
+          name: Dongguan
+        fs:
+          name: Foshan
+        gz:
+          name: Guangzhou
+        heyuan:
+          name: Heyuan
+        huizhou:
+          name: Huizhou
+        jm:
+          name: Jiangmen
+        jy:
+          name: Jieyang
+        mm:
+          name: Maoming
+        mz:
+          name: Meizhou
+        qingyuan:
+          name: Qingyuan
+        st:
+          name: Shantou
+        sw:
+          name: Shanwei
+        sg:
+          name: Shaoguan
+        sz:
+          name: Shenzhen
+        sd:
+          name: Shunde
+        taishan:
+          name: Taishan
+        yangchun:
+          name: Yangchun
+        yj:
+          name: Yangjiang
+        yf:
+          name: Yunfu
+        zhanjiang:
+          name: Zhanjiang
+        zq:
+          name: Zhaoqing
+        zs:
+          name: Zhongshan
+        zh:
+          name: Zhuhai

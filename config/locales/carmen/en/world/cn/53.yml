@@ -1,0 +1,37 @@
+---
+en:
+  world:
+    cn:
+      '53':
+        bs:
+          name: Baoshan
+        cx:
+          name: Chuxiong
+        dali:
+          name: Dali
+        dh:
+          name: Dehong
+        diqing:
+          name: Diqing
+        honghe:
+          name: Honghe
+        km:
+          name: Kunming
+        lj:
+          name: Lijiang
+        lincang:
+          name: Lincang
+        nujiang:
+          name: Nujiang
+        pe:
+          name: Pu'er
+        qj:
+          name: Qujing
+        ws:
+          name: Wenshan
+        bn:
+          name: Xishuangbanna
+        yx:
+          name: Yuxi
+        zt:
+          name: Zhaotong

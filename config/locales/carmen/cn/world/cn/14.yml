@@ -1,0 +1,31 @@
+---
+cn:
+  world:
+    cn:
+      '14':
+        changzhi:
+          name: 长治
+        dt:
+          name: 大同
+        jincheng:
+          name: 晋城
+        jz:
+          name: 晋中
+        lvliang:
+          name: 吕梁
+        linfen:
+          name: 临汾
+        linyixian:
+          name: 临猗
+        qingxu:
+          name: 清徐
+        shuozhou:
+          name: 朔州
+        ty:
+          name: 太原
+        xinzhou:
+          name: 忻州
+        yuncheng:
+          name: 运城
+        yq:
+          name: 阳泉

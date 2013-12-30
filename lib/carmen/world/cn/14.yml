@@ -1,0 +1,27 @@
+---
+- code: changzhi
+  type: city
+- code: dt
+  type: city
+- code: jincheng
+  type: city
+- code: jz
+  type: city
+- code: linfen
+  type: city
+- code: linyixian
+  type: city
+- code: lvliang
+  type: city
+- code: qingxu
+  type: city
+- code: shuozhou
+  type: city
+- code: ty
+  type: city
+- code: xinzhou
+  type: city
+- code: yq
+  type: city
+- code: yuncheng
+  type: city
