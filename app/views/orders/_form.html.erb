@@ -13,10 +13,10 @@
 
   <div class="field">
     <%= f.label :country_code %><br>
-    <%= f.text_field :country_code %>
+    <%= f.country_select :country_code, priority: %w(US CA), prompt: 'Please select a country' %>
   </div>
   <div class="field">
     <%= f.label :subregion_code %><br>
-    <%= f.text_field :subregion_code %>
+    <%= render partial: 'subregion_select', locals: {parent_region: f.object.country_code} %>
   </div>
 <% end %>

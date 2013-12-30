@@ -45,7 +45,7 @@ Here is the content of the `subregion_select` partial:
 ```erb
 <div id="order_state_code_wrapper">
   <% parent_region ||= params[:parent_region] %>
-  <% country = Carmen::Country.coded(parent_region) %>
+  <% country = Carmen::Country.coded(parent_region) unless parent_region.nil? %>
 
   <% if country.nil? %>
     <em>Please select a country above</em>
@@ -61,7 +61,7 @@ Note that we're defaulting to a text field input when we don't have subregion
 information for a country, and that if we don't have a country at all, we show
 a simple message.
 
-Now we will add a small script that replaces the subregion select when the country
+Now we will add a small script in `app/assets/javascripts/orders.js.coffee` that replaces the subregion select when the country
 select's value changes. A wrapper div has been added to make this simpler.
 
 ```coffeescript
