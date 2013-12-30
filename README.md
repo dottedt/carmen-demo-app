@@ -34,11 +34,23 @@ selects to your form:
  inside a partial:
 
 ```erb
+# For the standard rails form helpers:
 <div class="field">
   <%= f.label :state_code %><br />
   <%= render partial: 'subregion_select', locals: {parent_region: f.object.country_code} %>
 </div>
+
+# Or alternatively, with simple_form:
+<%= simple_form_for @order do |f| %>
+  <%= f.input :country_code do %>
+    <%= f.country_select :country_code, prompt: 'Please select a country' %>
+  <% end %>
+  <%= f.input :subregion_code do %>
+    <%= render 'subregion_select', parent_region: f.object.country_code %>
+  <% end %>
+<% end %>
 ```
+
 
 Here is the content of the `subregion_select` partial:
 
