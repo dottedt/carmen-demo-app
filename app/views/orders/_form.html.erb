@@ -1,4 +1,4 @@
-<h1>With the standard rails form helper</h1>
+<h1>New order address</h1>
 <%= form_for @order do |f| %>
   <div class="field">
     <%= f.label :country_code %><br>
@@ -6,23 +6,10 @@
   </div>
   <div class="field">
     <%= f.label :subregion_code %><br>
-    <%= render partial: 'subregion_select', parent_region: f.object.country_code %>
-  </div>
-<% end %>
-
-<br>
-<br>
-<hr>
-<br>
-<br>
-
-<h1>With simple_form </h1>
-<%= simple_form_for @order do |f| %>
-  <%= f.input :country_code do %>
-    <%= f.country_select :country_code, prompt: 'Please select a country' %>
-  <% end %>
-  <%= f.input :subregion_code do %>
     <%= render 'subregion_select', parent_region: f.object.country_code %>
-  <% end %>
-  <p>The subregion code functionality isn't demonstrated with simple_form, because it works the same as the standard rails form helper</p>
+  </div>
+  <div class="field">
+    <%= f.label :city %><br>
+    <%= render 'city_select', { country_code: f.object.country_code, subregion_code: f.object.subregion_code } %>
+  </div>
 <% end %>

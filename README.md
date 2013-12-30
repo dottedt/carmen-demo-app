@@ -114,20 +114,22 @@ end
 
 ## Extending carmen-rails with city data
 
-Say we want to extend carmen-rails to include city data. In my case, most addresses will be in China. So I'll add city data only for China (adding it for the whole world would be too much work!), but the principle is the same no matter which countries' city data you add.
+In my case, most addresses will be in China, so that's the only city data I'll add. But the principle is the same no matter which countries are involved.
 
 ### Manually find and add city data
 
 The structural data goes in the `lib/carmen` directory.
+
 The locale files containing various languages' translations go into the `config/locales/carmen` directory.
+
 Then we tell Carmen about the new structural data and translations that we've added:
 
 ```ruby
 # In config/initializers/carmen.rb
-# Adds the extra structural data for cities into Carmen's data_path
+# Tells Carmen about the extra structural data for cities that we added
 Carmen.append_data_path File.expand_path('../../../lib/carmen/', __FILE__)
 
 # In config/application.rb
-# Adds config/locales as well as all subdirectories to the i18n load path, so that our translations will be loaded
+# Tells Carmen about the extra translations for cities that we added (loads not only config/locales but all subdirectories as well)
 config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.{rb,yml}')]
 ```
