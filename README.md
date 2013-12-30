@@ -14,10 +14,11 @@ for your application.
 
 ## Setup
 
-Add `carmen-rails` to your Gemfile:
+Add `carmen` and `carmen-rails` to your Gemfile, using these versions:
 
 ```ruby
-gem 'carmen-rails'
+gem 'carmen', github: 'seangaffney/carmen'
+gem 'carmen-rails', '~> 1.0.0', github: 'jim/carmen-rails'
 ```
 
 Use the new form helpers provided by carmen-rails to add country or subregion
