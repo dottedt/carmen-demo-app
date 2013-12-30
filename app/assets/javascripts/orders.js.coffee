@@ -12,6 +12,7 @@ $ ->
     # If you also have cities, add this:
     $('#company_city_wrapper').load("/orders/city_options")
 
+  # If you also have cities, add this:
   $('#order_subregion_code_wrapper').change (event) ->
     city_wrapper = $('#order_city_wrapper')
     $('select', city_wrapper).attr('disabled', true)

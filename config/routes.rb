@@ -8,6 +8,7 @@ CarmenDemoApp::Application.routes.draw do
   resources :orders do
     collection do
       get :subregion_options
+      get :city_options
     end
   end
 
