@@ -1,3 +1,18 @@
+GIT
+  remote: git://github.com/jim/carmen-rails.git
+  revision: 076dd251e075d07408e0b5268f886956ef2a347c
+  specs:
+    carmen-rails (1.0.0)
+      carmen (~> 1.0.0)
+      rails
+
+GIT
+  remote: git://github.com/seangaffney/carmen.git
+  revision: 5e036c882d711abdbb52a3ff135d803d540eef15
+  specs:
+    carmen (1.0.0)
+      unicode_utils (~> 1.4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -103,11 +118,14 @@ GEM
     uglifier (2.4.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    unicode_utils (1.4.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  carmen!
+  carmen-rails (~> 1.0.0)!
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails

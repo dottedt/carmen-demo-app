@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'carmen', github: 'seangaffney/carmen'
+gem 'carmen-rails', '~> 1.0.0', github: 'jim/carmen-rails'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
