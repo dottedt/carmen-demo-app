@@ -5,4 +5,11 @@ class OrdersController < ApplicationController
   def new
     @order = Order.new
   end
+
+  def subregion_options
+    render partial: 'subregion_select'
+  end
+
+  def show
+  end
 end

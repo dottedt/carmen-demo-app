@@ -80,8 +80,17 @@ $ ->
 Now we just need to add a route to `config/routes.rb`:
 
 ```ruby
+# Must be ABOVE resources: orders
 get '/orders/subregion_options' => 'orders#subregion_options'
+
+# Alternatively, you can include the route in the resources: orders as follows:
+resources :orders do
+  collection do
+    get :subregion_options
+  end
+end
 ```
+
 
 And a basic controller action to the appropriate controller:
 
