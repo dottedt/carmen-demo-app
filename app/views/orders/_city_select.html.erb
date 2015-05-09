@@ -1,8 +1,8 @@
 <div id='order_city_wrapper'>
-  <%= country_code ||= params[:country_code] %>
-  <%= subregion_code ||= params[:subregion_code] %>
-  <%= country = Carmen::Country.coded(country_code) unless country_code.nil? %>
-  <%= subregion = Carmen::Country.coded(country_code).subregions.coded(subregion_code) unless (country_code.nil? | subregion_code.nil?) %>
+  <% country_code ||= params[:country_code] %>
+  <% subregion_code ||= params[:subregion_code] %>
+  <% country = Carmen::Country.coded(country_code) unless country_code.nil? %>
+  <% subregion = Carmen::Country.coded(country_code).subregions.coded(subregion_code) unless (country_code.nil? | subregion_code.nil?) %>
 
   <% if subregion.nil? %>
     <em>Please select a province / state</em>
