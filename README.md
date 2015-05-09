@@ -2,7 +2,7 @@
 
 Props to [bluerogue251](https://github.com/bluerogue251) for putting the original together.
 
-I noticed that the demo didn't quite work for selecting the city so I tweeked a few things in the hope this demo will help others. I hope it helps.
+I noticed that the demo didn't quite work for selecting the city so I tweeked a few things in the hope this demo will help others. Enjoy!
 
 # carmen-rails Demo App
 
