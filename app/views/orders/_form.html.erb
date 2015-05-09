@@ -10,6 +10,6 @@
   </div>
   <div class="field">
     <%= f.label :city %><br>
-    <%= render 'city_select', { country_code: f.object.country_code, subregion_code: f.object.subregion_code } %>
+    <%= render 'city_select', country_code: f.object.country_code, subregion_code: f.object.subregion_code  %>
   </div>
 <% end %>
