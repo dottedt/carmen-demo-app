@@ -9,4 +9,8 @@ class OrdersController < ApplicationController
   def subregion_options
     render partial: 'subregion_select'
   end
+
+   def city_options
+    render partial: 'city_select'
+  end
 end
